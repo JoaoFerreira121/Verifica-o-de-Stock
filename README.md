@@ -1,4 +1,4 @@
-# Verifica-o-de-Stock
+# Verificar-Stock
 Programa para Verificar Stock de Uma Loja.
 
   Linguagens utilizadas:
